@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/udpversion2.dir/main.cpp.o CMakeFiles/udpversion2.dir/packet.cpp.o CMakeFiles/udpversion2.dir/router.cpp.o  -o udpversion2 -lpthread 

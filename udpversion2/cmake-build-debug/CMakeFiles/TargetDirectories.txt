@@ -1,0 +1,3 @@
+/home/ddd/CLionProjects/udpversion2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ddd/CLionProjects/udpversion2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ddd/CLionProjects/udpversion2/cmake-build-debug/CMakeFiles/udpversion2.dir
